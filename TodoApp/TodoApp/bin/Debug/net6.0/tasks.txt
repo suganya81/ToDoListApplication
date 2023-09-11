@@ -1,0 +1,6 @@
+Shopping,2023-10-02,False
+Cleaning,2023-10-01,False
+Spa,2023-09-10,True
+Spa,2023-09-15,False
+Visit mom,2023-11-15,False
+Driving,2023-09-20,False
